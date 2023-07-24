@@ -1,6 +1,6 @@
-# Resume Template with HTML, CSS, and Bootstrap
+# Resume Template with HTML, CSS, and js
 
-This is a simple and elegant Resume template built using HTML, CSS, and Bootstrap. You can use this template to create your own professional resume website.
+This is a simple and elegant Resume template built using HTML, CSS, and js. You can use this template to create your own professional resume website.
 ## Preview
 
 [Live Demo](https://rafiqul-jakir.github.io/Resume/)
