@@ -17,16 +17,16 @@ cd Resume
 ```
 3. ***Open the project in your favorite code editor.***
 4. ***Customize the content:***
-- Open index.html in your code editor.
-- Replace the default content with your own resume information.
-- Customize the styling in styles.css if desired.
+    - Open index.html in your code editor.
+    - Replace the default content with your own resume information.
+    - Customize the styling in styles.css if desired.
 
 5. ***Preview your changes:***
-
-- Open ***index.html*** in a web browser to see how your resume looks.
+    
+    - Open ***index.html*** in a web browser to see how your resume looks.
 
 6. ***Deploy your resume website:***
-- You can host the website using GitHub Pages or any other hosting service of your choice.
+    - You can host the website using GitHub Pages or any other hosting service of your choice.
 
 ## Contributing
 
